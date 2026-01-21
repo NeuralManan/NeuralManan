@@ -16,3 +16,5 @@
 ### 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/abdul-manan-061928352)
 - [ORCID](https://orcid.org/0009-0009-1921-5806)
+- [Email](am1587396@gmail.com)
+- [Phone](+923001587396)
