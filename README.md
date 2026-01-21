@@ -1,16 +1,18 @@
-## Hi there 👋
+# Salam, I'm Abdul Manan! 👋
 
-<!--
-**NeuralManan/NeuralManan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+- **BS Artificial Intelligence** @ University of Engineering and Technology (UET), Lahore [2025 - 2029]
+- Current CGPA: 3.45 (Improving towards 4.00 Inshallah)
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python (OOP), C++, HTML/CSS, JavaScript
+- **AI Tools:** NumPy, Pandas (Learning Phase)
+- **Other:** Microsoft Office Professional, Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Goals
+- Mastering **Data Structures & Algorithms** - Building foundational **Programming for AI** tools
+- Aiming for Departmental Gold Medal 🏅
+
+### 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/abdul-manan-061928352)
+- [ORCID](https://orcid.org/0009-0009-1921-5806)
