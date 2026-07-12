@@ -2,11 +2,11 @@
 
 ### 🎓 Education
 - **BS Artificial Intelligence** @ University of Engineering and Technology (UET), Lahore [2025 - 2029]
-- Current CGPA: 3.45 (Improving towards 4.00 Inshallah)
+- Current CGPA: 3.35 (Improving towards 4.00 Inshallah)
 
 ### 🛠️ Tech Stack
-- **Languages:** Python (OOP), C++, HTML/CSS, JavaScript
-- **AI Tools:** NumPy, Pandas (Learning Phase)
+- **Languages:** Python (OOP, Numpy, Pandas, Scikit Learn), C++, HTML/CSS
+- **AI Tools:** NumPy, Pandas , Scikit Learn(Learning Phase)
 - **Other:** Microsoft Office Professional, Data Analytics
 
 ### 🚀 Current Goals
